@@ -3,7 +3,7 @@
 <p style="font-weight: bold;">Lagoon Avenue Mall - Bekasi, 7-8 Desember 2024</p>
 <hr/>
 
-##Ilustrasi Map Kompetisi
+## Ilustrasi Map Kompetisi
 <img src="./image/map.png">
 <hr/>
 
